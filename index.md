@@ -37,4 +37,5 @@ Premier League 2021/22 FanTeam Draft using a Data Model
 
 ![Image](https://i0.wp.com/jumpersforgoalposts.info/wp-content/uploads/2021/06/Euro2020-New.png?resize=2048%2C1148&ssl=1)
 
+EURO 2020 Fantasy Draft Using Data Model
 [Link](https://jumpersforgoalposts.info/euro-2020-fantasy-draft-using-data-model/)
